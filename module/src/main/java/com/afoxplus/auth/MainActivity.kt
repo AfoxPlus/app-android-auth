@@ -1,4 +1,4 @@
-package com.afoxplus.module.demo
+package com.afoxplus.auth
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

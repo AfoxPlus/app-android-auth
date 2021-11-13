@@ -1,4 +1,4 @@
-package com.afoxplus.module
+package com.afoxplus.auth
 
 import org.junit.Test
 
