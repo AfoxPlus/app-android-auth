@@ -1,6 +1,6 @@
-# Welcome to module-android-[name_module]!
+# Welcome to module-android-auth!
 
-[name_module] is an library for [description_module]
+Auth is an library for login app
 
 ## Setup
 
@@ -16,7 +16,7 @@ git submodule update
 ```kotlin
 dependencies {
     ...
-    implementation("com.afoxplus.android:[name_module]:1.0.0")
+    implementation("com.afoxplus.android:auth:1.0.0")
 }
 ```
 
