@@ -3,14 +3,15 @@
     package="com.afoxplus.auth.demo">
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="false"
+        android:name=".DemoApplication"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ThemeDemo">
         <activity
-            android:name="com.afoxplus.auth.demo.MainActivity"
+            android:name="com.afoxplus.auth.demo.delivery.views.activities.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
